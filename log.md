@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 2: April 20, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned how to fork a project on Git. Finished cssgridgarden.com tutorial
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I didn't retain all of the information from the css grid tutorial yesterday, had to refresh my memory. I'm slowly getting all of my accounts set up and actually doing things with them!
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work**: [100DaysOfCode](https://github.com/jawiley/100-days-of-code/)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: April 19, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: cssgridgarden.com tutorial, continued progress on portfolio project for freecodecamp
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I feel like I'm making progress with learning CSS and HTML and how to implement it.  It's really helpful to look at other people's projects, I'm starting to be able to look at a website and know how it's put together.  
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Portfolio](http://codepen.io/jawiley/full/RpmPvQ/)
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
