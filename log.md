@@ -4,7 +4,7 @@
 
 **Today's Progress**: Learned how to fork a project on Git. Finished cssgridgarden.com tutorial
 
-**Thoughts**: I didn't retain all of the information from the css grid tutorial yesterday, had to refresh my memory. I'm slowly getting all of my accounts set up and actually doing things with them!
+**Thoughts**: I didn't retain all of the information from the css grid tutorial yesterday, had to refresh my memory. Also, I'm slowly getting all of my accounts set up and actually doing things with them!
 
 **Link(s) to work**: [100DaysOfCode](https://github.com/jawiley/100-days-of-code/)
 
